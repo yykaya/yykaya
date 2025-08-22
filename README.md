@@ -4,7 +4,7 @@
 
 🧬 Researching **pangenomes, structural variation, and adaptation in Arabidopsis thaliana & Arabis alpina**  
 
-💻 Passionate about **computational biology, population genomics, and genome assembly pipelines**  
+💻 Passionate about **computational biology, population level pangenomics, and genome assembly pipelines**  
 
 ---
 
@@ -14,9 +14,9 @@
 - Developing **bioinformatics tools** for CNV/SV detection and pangenome integration  
 
 ### I’m currently learning
-- **Advanced data visualization and tool development** for genomics
 - **Nextflow pipeline optimization** and containerization for genomics and transciptomics
-- **Machine learning approaches** for pangenomics  
+- **Machine learning approaches** for pangenomics
+- **Advanced data visualization and tool development** for genomics
 
 ---
 
