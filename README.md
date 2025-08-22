@@ -24,7 +24,7 @@
 - ✉️ Email: ykaya@mpipz.mpg.de | yyasinkkaya@gmail.com
 - 🌐 [Bluesky](https://bsky.app/profile/ysnky.bsky.social)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yasinkayaa/)  
-- 🧬 [Hancock Lab Website](https://www.mpipz.mpg.de/hancock)  
+- 🧬 [Hancock Lab Website](https://www.mpipz.mpg.de/hancock/members)  
 
 ---
 
