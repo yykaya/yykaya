@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**yykaya/yykaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yasin Kaya  
 
-Here are some ideas to get you started:
+🎓 PhD Student in **Plant Evolution & Bioinformatics** at the Max Planck Institute for Plant Breeding Research ([Hancock Lab](https://www.mpipz.mpg.de/hancock)) / University of Cologne
+🧬 Researching **pangenomes, structural variation, and adaptation in Arabidopsis thaliana & Arabis alpina**  
+💻 Passionate about **computational biology, population genomics, and genome assembly pipelines**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 I’m currently working on
+- Comparative **pangenome analysis** of *Arabidopsis thaliana* and *Arabis alpina*  from East Africa
+- Investigating **structural variations** and their role in adaptation  
+- Developing **bioinformatics tools** for CNV/SV detection and pangenome integration  
+
+### 🌱 I’m currently learning
+- **Advanced data visualization and tool development** for pangenomics
+- **Nextflow pipeline optimization** and containerization  for genomics and transciptomics
+- **Machine learning approaches** for pangenomics  
+
+---
+
+### 📫 How to reach me
+- ✉️ Email: ykaya@mpipz.mpg.de | yyasinkkaya@gmail.com
+- 🌐 [Bluesky](https://bsky.app/profile/ysnky.bsky.social)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yasinkayaa/)  
+- 🧬 [Hancock Lab Website](https://www.mpipz.mpg.de/hancock)  
+
+---
+
+### Programming & Tools  
+
+**Programming:**  
+•🐧 Linux •Python •R • C++ • Bash  
+
+**Tools/Projects:**  
+- 🔗 [**PanHOG**](https://github.com/yykaya/PanHOG) – A phylogeny-aware toolkit for classifying and annotating Hierarchical Orthologous Groups (HOGs) in pangenomic datasets  
+- 🔗 [**Revelio**](https://github.com/yykaya/Revelio) – A lightweight C++ tool to identify cytosine contexts (CG/CHG/CHH) and assign sequence-based probabilities for methylation calling  
+- 🔗 [**AraFusion**](https://github.com/yykaya/AraFusion) – Toolkit for analyzing fusion events and structural variations in Arabidopsis genomes  
+- 🔧 Building and improving **hybrid T2T genome assembly pipelines**  
+
+---
+
+###  Activity  
+[![Activity Graph](https://green-wall.leoku.dev/share/yykaya?start=2024&size=m&theme=Midnight)](https://green-wall.leoku.dev/share/yykaya?start=2024&size=m&theme=Midnight)  
+
+---
+
+### 📊 GitHub Stats  
+
+![yykaya's Stats](https://github-readme-stats.vercel.app/api?username=yykaya&theme=merko&show_icons=true&hide_border=false&count_private=true)  
+
+![yykaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yykaya&theme=merko&hide_border=false)  
+
+![yykaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yykaya&theme=merko&show_icons=true&hide_border=false&layout=compact)  
+
+---
