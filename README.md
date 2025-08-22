@@ -16,7 +16,7 @@
 ### I’m currently learning
 - **Nextflow pipeline optimization** and containerization for genomics and transciptomics
 - **Machine learning approaches** for pangenomics
-- **Advanced data visualization and tool development** for genomics
+- **Advanced data analysis, visualization and pipeline development** for genomics
 
 ---
 
