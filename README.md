@@ -36,8 +36,7 @@
 **Tools/Projects:**  
 - 🔗 [**PanHOG**](https://github.com/yykaya/PanHOG) – A phylogeny-aware toolkit for classifying and annotating Hierarchical Orthologous Groups (HOGs) in pangenomic datasets  
 - 🔗 [**Revelio**](https://github.com/yykaya/Revelio) – A lightweight C++ tool to identify cytosine contexts (CG/CHG/CHH) and assign sequence-based probabilities for methylation calling  
-- 🔗 [**AraFusion**](https://github.com/yykaya/AraFusion) – Toolkit for analyzing fusion events and structural variations in Arabidopsis genomes  
-- 🔧 Building and improving **hybrid T2T genome assembly pipelines**  
+- 🔗 [**AraFusion**](https://github.com/yykaya/AraFusion) – A pipeline for building and improving **hybrid T2T genome assembly**  
 
 ---
 
